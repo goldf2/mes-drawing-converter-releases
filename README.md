@@ -2,7 +2,7 @@
 
 这里只发布 Windows / macOS 安装包、更新说明及签名更新信息，不存放应用源码、CAD 文件或用户数据。
 
-- [Windows 0.1.8-beta.1](https://github.com/goldf2/mes-drawing-converter-releases/releases/tag/win-v0.1.8-beta.1)：AutoCAD 2022 / SolidWorks 2025，本机需要 .NET Framework 4.8。
+- [Windows 0.1.8-beta.2](https://github.com/goldf2/mes-drawing-converter-releases/releases/tag/win-v0.1.8-beta.2)：AutoCAD 2022 / SolidWorks 2025，本机需要 .NET Framework 4.8。
 - [Mac 0.1.2-beta.2](https://github.com/goldf2/mes-drawing-converter-releases/releases/tag/mac-v0.1.2-beta.2)：macOS 13+、Apple Silicon / Intel，本机 AutoCAD DWG 试验版。Mac 不支持 SolidWorks 转换。
 
 新版支持独立选择 DWG / SolidWorks、在软件中检查更新。启动检查与测试版通知默认开启，下载及安装由用户确认。转换中不能安装更新，原图、PDF、转换设置保留。
